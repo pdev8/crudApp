@@ -1,0 +1,8 @@
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\DbConnectTest\bin\Debug\DbConnectTest.exe.config
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\DbConnectTest\bin\Debug\DbConnectTest.exe
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\DbConnectTest\bin\Debug\DbConnectTest.pdb
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\DbConnectTest\bin\Debug\DbConnect.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\DbConnectTest\bin\Debug\DbConnect.pdb
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\DbConnectTest\obj\Debug\DbConnectTest.csprojResolveAssemblyReference.cache
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\DbConnectTest\obj\Debug\DbConnectTest.exe
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\DbConnectTest\obj\Debug\DbConnectTest.pdb
