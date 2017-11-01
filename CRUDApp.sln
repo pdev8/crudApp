@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnectTest", "DbConnectT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnect", "DbConnect\DbConnect.csproj", "{4C048613-D903-48E6-A6CA-76768331D006}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "MVCApp\MVCApp.csproj", "{D667B35E-A8DA-4ACC-8ABF-8B5C54ED22BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4C048613-D903-48E6-A6CA-76768331D006}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C048613-D903-48E6-A6CA-76768331D006}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C048613-D903-48E6-A6CA-76768331D006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D667B35E-A8DA-4ACC-8ABF-8B5C54ED22BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D667B35E-A8DA-4ACC-8ABF-8B5C54ED22BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D667B35E-A8DA-4ACC-8ABF-8B5C54ED22BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D667B35E-A8DA-4ACC-8ABF-8B5C54ED22BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
