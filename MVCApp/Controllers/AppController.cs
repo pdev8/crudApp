@@ -9,7 +9,7 @@ namespace MVCApp.Controllers
     public class AppController : Controller
     {
         // GET: App
-        public ActionResult MainPage()
+        public ActionResult Dashboard()
         {
             return View();
         }

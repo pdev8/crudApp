@@ -1,4 +1,4 @@
-﻿var AppName = "demoApp";
+﻿var AppName = "fuelApp";
 
 (function (appName) {
 

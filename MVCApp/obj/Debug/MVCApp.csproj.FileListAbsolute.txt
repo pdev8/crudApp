@@ -69,3 +69,5 @@ C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Interception.Configuration.pdb
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.RegistrationByConvention.pdb
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.ServiceLocation.pdb
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\DbConnect.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\DbConnect.pdb
