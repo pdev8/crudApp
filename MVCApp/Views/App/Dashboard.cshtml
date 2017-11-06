@@ -14,7 +14,7 @@
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <script src="~/Scripts/modernizr-2.6.2.js"></script>
 </head>
-<body data-spy="scroll" data-target=".navbar" data-offset="50">
+<body data-spy="scroll" data-target=".navbar" data-offset="50" ng-app="fuelApp" ng-controller="trainerController as tc">
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
@@ -23,13 +23,21 @@
                 </a>
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav"></ul>
+                <ul class="nav navbar-nav">
+                    <li><a href="#clients">Clients</a></li>
+                    <li><a href="profile">My Profile</a></li>
+                </ul>
             </div>
         </div>
     </div>
 
+<div>
 
-
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/app/app.js"></script>
+    <script src="~/Scripts/Controllers/TrainerController.js"></script>
+    <script src="~/Scripts/Services/TrainerService.js"></script>
+</div>
 
 </body>
 </html>
