@@ -18,8 +18,6 @@ namespace MVCApp.Controllers.Api
     {
         ITrainerService _trainerService;
 
-        public TrainerController() { }
-
         public TrainerController(ITrainerService trainerService)
         {
             _trainerService = trainerService;
