@@ -53,22 +53,6 @@ C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Syste
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\obj\Debug\MVCApp.csprojResolveAssemblyReference.cache
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\obj\Debug\MVCApp.dll
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\obj\Debug\MVCApp.pdb
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\CommonServiceLocator.dll
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Abstractions.dll
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Configuration.dll
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Container.dll
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Interception.Configuration.dll
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Interception.dll
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.RegistrationByConvention.dll
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.ServiceLocation.dll
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\CommonServiceLocator.pdb
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Abstractions.pdb
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Configuration.pdb
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Container.pdb
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Interception.pdb
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Interception.Configuration.pdb
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.RegistrationByConvention.pdb
-C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.ServiceLocation.pdb
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\DbConnect.dll
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\DbConnect.pdb
 C:\crudApp\crudApp\MVCApp\bin\roslyn\csc.exe
@@ -144,3 +128,13 @@ C:\crudApp\crudApp\MVCApp\bin\System.Web.Http.WebHost.xml
 C:\crudApp\crudApp\MVCApp\obj\Debug\MVCApp.csprojResolveAssemblyReference.cache
 C:\crudApp\crudApp\MVCApp\obj\Debug\MVCApp.dll
 C:\crudApp\crudApp\MVCApp\obj\Debug\MVCApp.pdb
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.Unity.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.Unity.xml
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Mvc5.dll
