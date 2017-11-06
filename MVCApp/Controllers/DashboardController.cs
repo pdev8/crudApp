@@ -6,10 +6,12 @@ using System.Web.Mvc;
 
 namespace MVCApp.Controllers
 {
-    public class AppController : Controller
+    public class DashboardController : Controller
     {
+
+        /*[Route("~/")]*/
         // GET: App
-        public ActionResult Dashboard()
+        public ActionResult Trainer()
         {
             return View();
         }
