@@ -1,4 +1,4 @@
-﻿
+﻿@using System.Web.Optimization
 @{
     ViewBag.Title = "Trainer";
 
@@ -9,35 +9,98 @@
 <html>
 <head>
     <meta charset="utf-8" />
+    <title>Fuel</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
-    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    @*<link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />*@
     <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <style>
+        .navbar {
+            margin-top: -50px;
+            background-color: black;
+        }
+
+        #flex-logo {
+            margin-top: -33px;
+        }
+
+        #panbod {
+            max-width: 1140px;
+            margin: auto;
+        }
+    </style>
+    @Styles.Render("~/Content/css")
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="50" ng-app="fuelApp" ng-controller="trainerController as tc">
-    <div class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <a class="navbar-brand" href="#">
-                    <img style="background-color: #222; height: 150px;" src="~/Content/Custom/MOCKUP_03Nov17_1429_B38958_1.png" />
+                    <img id="flex-logo" style="height: 85px" src="~/Content/Custom/MOCKUP_03Nov17_1429_B38958_1.png" />
                 </a>
             </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li><a href="#clients">Clients</a></li>
-                    <li><a href="#profile">My Profile</a></li>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Link</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Account <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Profile</a></li>
+                            <li><a href="#">Another action</a></li>
+                            <li><a href="#">Something else here</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="#">Separated link</a></li>
+                        </ul>
+                    </li>
                 </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    @*<div>
+            <button type="button" ng-click="tc.postTrainer()">Post</button>
+            <button type="button" ng-click="tc.updateTrainer()">Update</button>
+            <button type="button" ng-click="tc.deleteTrainer()">Delete</button>
+        </div>*@
+    <div class="container body-content">
+        <div class="jumbotron">
+            <h1>ASP.NET</h1>
+            <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+            <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Getting started</h2>
+                <p>
+                    ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+                    enables a clean separation of concerns and gives you full control over markup
+                    for enjoyable, agile development.
+                </p>
+                <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Get more libraries</h2>
+                <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+                <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Web Hosting</h2>
+                <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+                <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
             </div>
         </div>
     </div>
 
-<div>
-
-    <script src="~/Scripts/angular.js"></script>
-    <script src="~/Scripts/app/app.js"></script>
-    <script src="~/Scripts/Controllers/TrainerController.js"></script>
-    <script src="~/Scripts/Services/TrainerService.js"></script>
-</div>
-
+    <div>
+        <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+        <script src="~/Scripts/bootstrap.min.js"></script>
+        <script src="~/Scripts/angular.js"></script>
+        <script src="~/Scripts/app/app.js"></script>
+        <script src="~/Scripts/Controllers/TrainerController.js"></script>
+        <script src="~/Scripts/Services/TrainerService.js"></script>
+    </div>
 </body>
 </html>

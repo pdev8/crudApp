@@ -33,7 +33,7 @@ namespace DbConnect.Adapter
         // Select
         // We're telling T that T is only a class (generic)
         // Interface for a list - IEnumerable<T>
-        // Return of a list of generics
+        // Return of a list of generics (LoadObject -> pulling data)
         public IEnumerable<T> LoadObject<T>(IDbCmdDef cmdDef) where T : class
         {
             try
