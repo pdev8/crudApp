@@ -138,3 +138,8 @@ C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Micro
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.Unity.Configuration.xml
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
 C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Unity.Mvc5.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Antlr3.Runtime.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\System.Web.Optimization.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\WebGrease.dll
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\Antlr3.Runtime.pdb
+C:\Users\ppauleee\Documents\Personal\Sabio Personal App\CRUDApp\MVCApp\bin\System.Web.Optimization.xml

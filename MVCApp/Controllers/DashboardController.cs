@@ -8,9 +8,8 @@ namespace MVCApp.Controllers
 {
     public class DashboardController : Controller
     {
-
         /*[Route("~/")]*/
-        // GET: App
+        // GET: Dashboard
         public ActionResult Trainer()
         {
             return View();
